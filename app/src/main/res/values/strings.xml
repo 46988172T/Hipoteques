@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hipoteques</string>
+
+    <string name="preu">Preu inmoble (eur)</string>
+    <string name="estalvis">Estalvis</string>
+    <string name="termini">Termini (anys)</string>
+    <string name="euribor">Euribor</string>
+    <string name="diferencial">Diferencial</string>
+    <string name="calcular">Calcular</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mes">Mes: </string>
+    <string name="total">Total: </string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
